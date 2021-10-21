@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cd4931f8eecd1dc4aa4240b5f3138562, type: 3}
+  m_Name: TomatoOnion
+  m_EditorClassIdentifier: 
+  Name: Tomato with onion soup
+  Price: 22
+  MaxQNTInOrder: 1
+  Image: {fileID: 2800000, guid: 1b0e3997063d6204d950023127bc231e, type: 3}
+  AmountInOrder: 1
